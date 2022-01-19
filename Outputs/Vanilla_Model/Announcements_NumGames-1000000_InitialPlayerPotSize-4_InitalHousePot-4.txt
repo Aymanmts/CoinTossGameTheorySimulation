@@ -1,0 +1,23 @@
+number of games played: 1000000
+size of initial player pot: 4
+size of initial house pot: 4
+
+average number of rounds the game lasts for: 21.67
+variance of the number of rounds the game lasts for: 320.76
+maximum number of games in the distribution: 277
+minimum number of games in the distribution: 5
+
+average payout for Player A $: 4.62
+variance of the payout for Player A $: 23.9
+maximum payout for Player A in the distribution $: 12
+minimum payout for Player A in the distribution $: 0
+
+average payout for Player B $: 4.34
+variance of the payout for Player B $: 23.71
+maximum payout for Player B in the distribution $: 12
+minimum payout for Player B in the distribution $: 0
+
+average payout for House $: 3.04
+variance of the payout for House $: 7.55
+maximum payout for House in the distribution $: 12
+minimum payout for House in the distribution $: 0

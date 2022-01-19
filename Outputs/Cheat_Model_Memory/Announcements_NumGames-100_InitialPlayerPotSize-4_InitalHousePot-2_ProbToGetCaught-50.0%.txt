@@ -1,0 +1,334 @@
+
+Trial:  1
+
+ Round:  1
+Player A Rolls:  5
+Does Player A cheat? 1
+Player A cheats- does he get caught? 1
+	 Player A's Pot 6
+	 Player B's Pot 4
+	 Collective Pot 0
+	 Is Game Over after A moves? Yes
+	 number of games played so far: 1
+[1]
+
+Trial:  2
+[1]
+
+Trial:  3
+[1]
+
+Trial:  4
+[1]
+
+Trial:  5
+[1]
+
+Trial:  6
+[1]
+
+Trial:  7
+[1]
+
+Trial:  8
+[1]
+
+Trial:  9
+[1]
+
+Trial:  10
+[1]
+
+Trial:  11
+[1]
+
+Trial:  12
+[1]
+
+Trial:  13
+[1]
+
+Trial:  14
+[1]
+
+Trial:  15
+[1]
+
+Trial:  16
+[1]
+
+Trial:  17
+[1]
+
+Trial:  18
+[1]
+
+Trial:  19
+[1]
+
+Trial:  20
+[1]
+
+Trial:  21
+[1]
+
+Trial:  22
+[1]
+
+Trial:  23
+[1]
+
+Trial:  24
+[1]
+
+Trial:  25
+[1]
+
+Trial:  26
+[1]
+
+Trial:  27
+[1]
+
+Trial:  28
+[1]
+
+Trial:  29
+[1]
+
+Trial:  30
+[1]
+
+Trial:  31
+[1]
+
+Trial:  32
+[1]
+
+Trial:  33
+[1]
+
+Trial:  34
+[1]
+
+Trial:  35
+[1]
+
+Trial:  36
+[1]
+
+Trial:  37
+[1]
+
+Trial:  38
+[1]
+
+Trial:  39
+[1]
+
+Trial:  40
+[1]
+
+Trial:  41
+[1]
+
+Trial:  42
+[1]
+
+Trial:  43
+[1]
+
+Trial:  44
+[1]
+
+Trial:  45
+[1]
+
+Trial:  46
+[1]
+
+Trial:  47
+[1]
+
+Trial:  48
+[1]
+
+Trial:  49
+[1]
+
+Trial:  50
+[1]
+
+Trial:  51
+[1]
+
+Trial:  52
+[1]
+
+Trial:  53
+[1]
+
+Trial:  54
+[1]
+
+Trial:  55
+[1]
+
+Trial:  56
+[1]
+
+Trial:  57
+[1]
+
+Trial:  58
+[1]
+
+Trial:  59
+[1]
+
+Trial:  60
+[1]
+
+Trial:  61
+[1]
+
+Trial:  62
+[1]
+
+Trial:  63
+[1]
+
+Trial:  64
+[1]
+
+Trial:  65
+[1]
+
+Trial:  66
+[1]
+
+Trial:  67
+[1]
+
+Trial:  68
+[1]
+
+Trial:  69
+[1]
+
+Trial:  70
+[1]
+
+Trial:  71
+[1]
+
+Trial:  72
+[1]
+
+Trial:  73
+[1]
+
+Trial:  74
+[1]
+
+Trial:  75
+[1]
+
+Trial:  76
+[1]
+
+Trial:  77
+[1]
+
+Trial:  78
+[1]
+
+Trial:  79
+[1]
+
+Trial:  80
+[1]
+
+Trial:  81
+[1]
+
+Trial:  82
+[1]
+
+Trial:  83
+[1]
+
+Trial:  84
+[1]
+
+Trial:  85
+[1]
+
+Trial:  86
+[1]
+
+Trial:  87
+[1]
+
+Trial:  88
+[1]
+
+Trial:  89
+[1]
+
+Trial:  90
+[1]
+
+Trial:  91
+[1]
+
+Trial:  92
+[1]
+
+Trial:  93
+[1]
+
+Trial:  94
+[1]
+
+Trial:  95
+[1]
+
+Trial:  96
+[1]
+
+Trial:  97
+[1]
+
+Trial:  98
+[1]
+
+Trial:  99
+[1]
+
+Trial:  100
+[1]
+number of games played: 1
+size of initial player pot: 4
+size of initial house pot: 2
+
+probability of a cheater getting caught (%): 50.0
+average number of rounds the game lasts for: 1.0
+variance of the number of rounds the game lasts for: 0.0
+maximum number of game rounds in the distribution: 1
+minimum number of game rounds in the distribution: 1
+
+average payout for Player A $: 6.0
+variance of the payout for Player A $: 0.0
+maximum payout for Player A in the distribution $: 6
+minimum payout for Player A in the distribution $: 6
+
+average payout for Player B $: 4.0
+variance of the payout for Player B $: 0.0
+maximum payout for Player B in the distribution $: 4
+minimum payout for Player B in the distribution $: 4
+
+average payout for House $: 0.0
+variance of the payout for House $: 0.0
+maximum payout for House in the distribution $: 0
+minimum payout for House in the distribution $: 0

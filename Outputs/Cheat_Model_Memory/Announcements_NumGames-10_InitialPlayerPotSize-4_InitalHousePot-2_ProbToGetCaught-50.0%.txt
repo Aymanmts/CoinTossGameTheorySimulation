@@ -1,0 +1,164 @@
+
+Trial:  1
+
+ Round:  1
+Player A Rolls:  1
+	 Player A's Pot 4
+	 Player B's Pot 4
+	 Collective Pot 2
+	 Is Game Over after A moves? No
+	 number of games played so far: 0
+Player B Rolls:  3
+	 Player A's Pot 4
+	 Player B's Pot 5
+	 Collective Pot 1
+	 Is Game Over after B moves? No
+	 number of games played so far: 0
+
+ Round:  2
+Player A Rolls:  5
+Does Player A cheat? 0
+Player A cheats- does he get caught? 0
+	 Player A's Pot 3
+	 Player B's Pot 5
+	 Collective Pot 2
+	 Is Game Over after A moves? No
+	 number of games played so far: 0
+Player B Rolls:  2
+	 Player A's Pot 3
+	 Player B's Pot 7
+	 Collective Pot 0
+	 Is Game Over after B moves? No
+	 number of games played so far: 0
+
+ Round:  3
+Player A Rolls:  1
+	 Player A's Pot 3
+	 Player B's Pot 7
+	 Collective Pot 0
+	 Is Game Over after A moves? No
+	 number of games played so far: 0
+Player B Rolls:  5
+Does Player B cheat? 1
+Player B cheats- does he get caught? 0
+	 Player A's Pot 3
+	 Player B's Pot 7
+	 Collective Pot 0
+	 Is Game Over after B moves? No
+	 number of games played so far: 0
+
+ Round:  4
+Player A Rolls:  3
+	 Player A's Pot 3
+	 Player B's Pot 7
+	 Collective Pot 0
+	 Is Game Over after A moves? No
+	 number of games played so far: 0
+Player B Rolls:  6
+Does Player B cheat? 0
+Player B cheats- does he get caught? 1
+	 Player A's Pot 3
+	 Player B's Pot 6
+	 Collective Pot 1
+	 Is Game Over after B moves? No
+	 number of games played so far: 0
+
+ Round:  5
+Player A Rolls:  3
+	 Player A's Pot 3
+	 Player B's Pot 6
+	 Collective Pot 1
+	 Is Game Over after A moves? No
+	 number of games played so far: 0
+Player B Rolls:  2
+	 Player A's Pot 3
+	 Player B's Pot 7
+	 Collective Pot 0
+	 Is Game Over after B moves? No
+	 number of games played so far: 0
+
+ Round:  6
+Player A Rolls:  4
+Does Player A cheat? 0
+Player A cheats- does he get caught? 0
+	 Player A's Pot 2
+	 Player B's Pot 7
+	 Collective Pot 1
+	 Is Game Over after A moves? No
+	 number of games played so far: 0
+Player B Rolls:  4
+Does Player B cheat? 0
+Player B cheats- does he get caught? 1
+	 Player A's Pot 2
+	 Player B's Pot 6
+	 Collective Pot 2
+	 Is Game Over after B moves? No
+	 number of games played so far: 0
+
+ Round:  7
+Player A Rolls:  1
+	 Player A's Pot 2
+	 Player B's Pot 6
+	 Collective Pot 2
+	 Is Game Over after A moves? No
+	 number of games played so far: 0
+Player B Rolls:  6
+Does Player B cheat? 0
+Player B cheats- does he get caught? 1
+	 Player A's Pot 2
+	 Player B's Pot 5
+	 Collective Pot 3
+	 Is Game Over after B moves? No
+	 number of games played so far: 0
+
+ Round:  8
+Player A Rolls:  6
+Does Player A cheat? 1
+Player A cheats- does he get caught? 1
+	 Player A's Pot 5
+	 Player B's Pot 5
+	 Collective Pot 0
+	 Is Game Over after A moves? Yes
+	 number of games played so far: 1
+
+Trial:  2
+
+Trial:  3
+
+Trial:  4
+
+Trial:  5
+
+Trial:  6
+
+Trial:  7
+
+Trial:  8
+
+Trial:  9
+
+Trial:  10
+number of games played: 1
+size of initial player pot: 4
+size of initial house pot: 2
+
+probability of a cheater getting caught (%): 50.0
+average number of rounds the game lasts for: 8.0
+variance of the number of rounds the game lasts for: 0.0
+maximum number of game rounds in the distribution: 8
+minimum number of game rounds in the distribution: 8
+
+average payout for Player A $: 5.0
+variance of the payout for Player A $: 0.0
+maximum payout for Player A in the distribution $: 5
+minimum payout for Player A in the distribution $: 5
+
+average payout for Player B $: 5.0
+variance of the payout for Player B $: 0.0
+maximum payout for Player B in the distribution $: 5
+minimum payout for Player B in the distribution $: 5
+
+average payout for House $: 0.0
+variance of the payout for House $: 0.0
+maximum payout for House in the distribution $: 0
+minimum payout for House in the distribution $: 0

@@ -1,0 +1,24 @@
+number of games played: 1000000
+size of initial player pot: 4
+size of initial house pot: 8
+
+probability of a cheater getting caught (%): 90.0
+average number of rounds the game lasts for: 2.498341
+variance of the number of rounds the game lasts for: 3.685293247719002
+maximum number of game rounds in the distribution: 29
+minimum number of game rounds in the distribution: 1
+
+average payout for Player A $: 6.972158
+variance of the payout for Player A $: 62.88797082303599
+maximum payout for Player A in the distribution $: 16
+minimum payout for Player A in the distribution $: 0
+
+average payout for Player B $: 9.016297
+variance of the payout for Player B $: 62.906391407790956
+maximum payout for Player B in the distribution $: 16
+minimum payout for Player B in the distribution $: 0
+
+average payout for House $: 9.811194
+variance of the payout for House $: 12.980210294364007
+maximum payout for House in the distribution $: 16
+minimum payout for House in the distribution $: 0
